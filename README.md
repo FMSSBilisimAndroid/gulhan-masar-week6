@@ -3,7 +3,7 @@ Coroutine Scope and Endless Loop
 
 <img width="1440" alt="Screen Shot 2022-10-02 at 12 45 29 AM" src="https://user-images.githubusercontent.com/109763090/193430090-8dc04dcc-a259-49de-a357-8fcfa26b5d0b.png">
 
-## Dongu kilitlenir.
+## Döngü kilitlenir.
 ## Sonsuz döngü oldugundan Coroutine Scope icindeki doNetworkCall fonsiyonu hicbir sey döndürmez.
 
 
